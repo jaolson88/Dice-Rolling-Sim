@@ -1,2 +1,2 @@
 # hello-world
-A new repository
+Just a simple dice rolling simulator project for a beginning programmer.
